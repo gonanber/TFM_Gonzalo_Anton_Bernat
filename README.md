@@ -38,13 +38,33 @@
 ## 4_Metaanálisis
 
 - En esta carpeta se encuentra el código encesario para realizar el metaanálisis
+- También se encuentra el código necesario para obtener las listas de genes que se cargan en STRING
 - Debe ser lo quinto en ser ejecutado
 
 
+## 5_Análisis_funcional
 
-## 4_Material_suplementario
+- En esta carpeta se encuentra el código encesario para realizar el análisis funcional
+- Debe ser lo sexto en ser ejecutado
 
-### 4.1_Resultados_Revision_Sistematica
+## 6_Material_suplementario
 
+### 6.1_Resultados_Revision_Sistematica
 
-### 4.2_Resultados_MA
+Se trata de un Excel que contiene la información de todo el proceso realizado en la Revisión Sistemática. Se pueden encontrar las siguientes pestañas:
+
+- Revisión Microarrays: esta pestaña contiene la revisión sistemática de los estudios de microarrays
+- Revisión RNA-seq: esta pestaña contiene la revisión sistemática de los estudios de RNA-seq
+- Selección final: esta pestaña muestra la información de los estudios seleccioandos que se utilizan en este trabajo
+- Muestras estudios: esta pestaña muestra el número de muestras que tiene cada grupo experimental de cada estudio
+- Resultado imputación: esta pestaña muestra el porcentaje de acierto de la imputación de las muestras de los estudios de los microarrays
+- Muestras eliminadas: esta pestaña muestra el número de muestras eliminadas y especifica las que se han eliminado para cada estudio
+- Expresión diferencial: esta pestaña muestra el número de genes diferencialmente expresados para cada estudio (individual)
+- Metaanálisis: esta pestaña muestra el número de genes diferencialmente expresado para cada metaanálisis y contraste.
+- OpenT_MA_todos: esta pestaña muestra la informacióne estadistica de los genes diferencialmente expresados en el metaanálisis y que están presentes en la base de datos de Open Targets
+  
+### 6.2_Resultados_MA
+
+- Se muestran las carpetas de los metaanálisis realizados
+- Dentro de cada carpeta hay subcarpetas de los contrastes que tienen resultados significativos
+- Dentro de cada subcarpeta se encuentra el informe html que permite ver los forest y funnel plots, así como el análisis de influencia para cada gen diferencialmente expresado en el metaanálisis.
