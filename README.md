@@ -8,6 +8,8 @@
 - [4_Metaanalisis](#4_Metaanalisis)
 - [5_Analisis_funcional](#5_Analisis_funcional)
 - [6_Material_suplementario](#6_Material_suplementario)
+    -  [6.1_Resultados_Revision_Sistematica](#6.1_Resultados_Revision_Sistematica)
+    -  [6.2_Resultados_MA](#6.2_Resultados_MA)
 
 
 ## 0_Descarga_datos
