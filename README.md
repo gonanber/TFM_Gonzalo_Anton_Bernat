@@ -54,14 +54,14 @@
 Se trata de un Excel que contiene la información de todo el proceso realizado en la Revisión Sistemática. Se pueden encontrar las siguientes pestañas:
 
 - **Revisión Microarrays:** esta pestaña contiene la revisión sistemática de los estudios de microarrays
-- Revisión RNA-seq: esta pestaña contiene la revisión sistemática de los estudios de RNA-seq
-- Selección final: esta pestaña muestra la información de los estudios seleccioandos que se utilizan en este trabajo
-- Muestras estudios: esta pestaña muestra el número de muestras que tiene cada grupo experimental de cada estudio
-- Resultado imputación: esta pestaña muestra el porcentaje de acierto de la imputación de las muestras de los estudios de los microarrays
-- Muestras eliminadas: esta pestaña muestra el número de muestras eliminadas y especifica las que se han eliminado para cada estudio
-- Expresión diferencial: esta pestaña muestra el número de genes diferencialmente expresados para cada estudio (individual)
-- Metaanálisis: esta pestaña muestra el número de genes diferencialmente expresado para cada metaanálisis y contraste.
-- OpenT_MA_todos: esta pestaña muestra la informacióne estadistica de los genes diferencialmente expresados en el metaanálisis y que están presentes en la base de datos de Open Targets
+- **Revisión RNA-seq:** esta pestaña contiene la revisión sistemática de los estudios de RNA-seq
+- **Selección final:** esta pestaña muestra la información de los estudios seleccioandos que se utilizan en este trabajo
+- **Muestras estudios:** esta pestaña muestra el número de muestras que tiene cada grupo experimental de cada estudio
+- **Resultado imputación:** esta pestaña muestra el porcentaje de acierto de la imputación de las muestras de los estudios de los microarrays
+- **Muestras eliminadas:** esta pestaña muestra el número de muestras eliminadas y especifica las que se han eliminado para cada estudio
+- **Expresión diferencial:** esta pestaña muestra el número de genes diferencialmente expresados para cada estudio (individual)
+- **Metaanálisis:** esta pestaña muestra el número de genes diferencialmente expresado para cada metaanálisis y contraste.
+- **OpenT_MA_todos:** esta pestaña muestra la informacióne estadistica de los genes diferencialmente expresados en el metaanálisis y que están presentes en la base de datos de Open Targets
   
 ### 6.2_Resultados_MA
 
