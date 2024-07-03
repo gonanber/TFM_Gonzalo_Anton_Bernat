@@ -5,7 +5,7 @@
 - [1_Microarrays](#1_Microarrays)
 - [2_RNA-seq](#2_RNA-seq)
 - [3_Genera_todos_fit](#3_Genera_todos_fit)
-- [4_Metaanálisis](#4_Metaanálisis)
+- [4_Metaanalisis](#4_Metaanalisis)
 - [5_Analisis_funcional](#5_Analisis_funcional)
 - [6_Material_suplementario](#6_Material_suplementario)
 
@@ -35,14 +35,14 @@
 - Debe ser lo cuarto en ser ejecutado
 
 
-## 4_Metaanálisis
+## 4_Metaanalisis
 
 - En esta carpeta se encuentra el código encesario para realizar el metaanálisis
 - También se encuentra el código necesario para obtener las listas de genes que se cargan en STRING
 - Debe ser lo quinto en ser ejecutado
 
 
-## 5_Análisis_funcional
+## 5_Analisis_funcional
 
 - En esta carpeta se encuentra el código encesario para realizar el análisis funcional
 - Debe ser lo sexto en ser ejecutado
