@@ -53,7 +53,7 @@
 
 Se trata de un Excel que contiene la información de todo el proceso realizado en la Revisión Sistemática. Se pueden encontrar las siguientes pestañas:
 
-- Revisión Microarrays: esta pestaña contiene la revisión sistemática de los estudios de microarrays
+- **Revisión Microarrays:** esta pestaña contiene la revisión sistemática de los estudios de microarrays
 - Revisión RNA-seq: esta pestaña contiene la revisión sistemática de los estudios de RNA-seq
 - Selección final: esta pestaña muestra la información de los estudios seleccioandos que se utilizan en este trabajo
 - Muestras estudios: esta pestaña muestra el número de muestras que tiene cada grupo experimental de cada estudio
