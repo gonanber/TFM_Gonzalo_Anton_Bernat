@@ -1,0 +1,5 @@
+lower_bound	logFC	upper_bound	pvalue	QE	QEp	SE	tau2	I2	H2	p.adjust.fdr	p.adjust.BY	n.studies
+CNDP2	0.05	0.072	0.095	0	5.866	0.753	0.012	0	0	1	0	0	10
+UBIAD1	0.033	0.053	0.072	0	7.616	0.666	0.01	0	0	1	0.001	0.014	11
+COMMD2	0.055	0.096	0.137	0	7.123	0.624	0.021	0	0	1	0.03	0.322	10
+TMCC1	-0.11	-0.077	-0.044	0	5.05	0.888	0.017	0	0	1	0.03	0.322	11

@@ -1,0 +1,3 @@
+ID	lower_bound	logFC	upper_bound	pvalue	QE	QEp	SE	tau2	I2	H2	p.adjust.fdr	p.adjust.BY	n.studies	infl.same.sign.logFC	infl.nstudies	sensi.global	sensi.specific
+CNDP2	0.046	0.075	0.104	0	10.457	0.315	0.015	0	13.934	1.162	0.011	0.113	10	7	GSE28521_cerebellum,GSE28521_temporal	0.277093547285735	all.p.values < 0.05
+LOC102723678	-0.392	-0.281	-0.169	0	0.142	0.706	0.057	0	0	1	0.011	0.113	2	2	GSE6575	0.5682407211527	GSE6575
