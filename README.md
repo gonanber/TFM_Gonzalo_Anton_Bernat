@@ -35,14 +35,12 @@
 ## 3_Genera_todos_fit
 
 - En esta carpeta se almacenan los datos de los fits de cada estudio
-- Es necesario elegir si se quiere generar este objeto para todos los estudios, para los de sangre o para los de cerebro
 - Debe ser lo cuarto en ser ejecutado
 
 
 ## 4_Metaanalisis
 
 - En esta carpeta se encuentra el código encesario para realizar el metaanálisis
-- También se encuentra el código necesario para obtener las listas de genes que se cargan en STRING
 - Debe ser lo quinto en ser ejecutado
 
 
